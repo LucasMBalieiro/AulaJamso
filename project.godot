@@ -13,7 +13,7 @@ config_version=5
 config/name="AulaJamso"
 run/main_scene="uid://beleh4ex7aa60"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://Assets/icon.svg"
 
 [input]
 
