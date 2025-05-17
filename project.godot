@@ -15,6 +15,10 @@ run/main_scene="uid://beleh4ex7aa60"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://Assets/icon.svg"
 
+[dotnet]
+
+project/assembly_name="AulaJamso"
+
 [input]
 
 ui_accept={
