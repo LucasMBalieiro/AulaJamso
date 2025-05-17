@@ -26,6 +26,6 @@ func _physics_process(delta: float) -> void:
 	
 	if not is_on_floor():
 		velocity += get_gravity() * delta
-		#animated_sprite_2d.animation = "jump"
+		animated_sprite_2d.animation = "jump"
 
 	move_and_slide()
