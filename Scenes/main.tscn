@@ -1,8 +1,10 @@
-[gd_scene load_steps=6 format=4 uid="uid://beleh4ex7aa60"]
+[gd_scene load_steps=7 format=4 uid="uid://beleh4ex7aa60"]
 
 [ext_resource type="Texture2D" uid="uid://b4x5scki6ug07" path="res://Assets/BACKGROUND/Background/Gray.png" id="1_bo1nx"]
 [ext_resource type="Texture2D" uid="uid://dllpmw7qrb7m2" path="res://Assets/BACKGROUND/Background/Terrain (16x16).png" id="2_8gbba"]
 [ext_resource type="PackedScene" uid="uid://dbntljck1rxxi" path="res://Scenes/personagem.tscn" id="3_kry3j"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_8gbba"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_jjvhh"]
 texture = ExtResource("2_8gbba")
@@ -196,6 +198,7 @@ texture = ExtResource("2_8gbba")
 
 [sub_resource type="TileSet" id="TileSet_6bp64"]
 physics_layer_0/collision_layer = 1
+physics_layer_0/physics_material = SubResource("PhysicsMaterial_8gbba")
 sources/1 = SubResource("TileSetAtlasSource_jjvhh")
 
 [node name="Node" type="Node"]
