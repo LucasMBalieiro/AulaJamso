@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://46qwyidvlcjn"
-path="res://.godot/imported/Idle (32x32).png-6cf5f781859415959ac574377d266ab0.ctex"
+uid="uid://bhwd1qimp71fu"
+path="res://.godot/imported/Run (32x32).png-5b571898d56dec8c3fd16ba86847d68b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Personagem/Idle (32x32).png"
-dest_files=["res://.godot/imported/Idle (32x32).png-6cf5f781859415959ac574377d266ab0.ctex"]
+source_file="res://Assets/Personagem/Mask Dude/Run (32x32).png"
+dest_files=["res://.godot/imported/Run (32x32).png-5b571898d56dec8c3fd16ba86847d68b.ctex"]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=4 uid="uid://beleh4ex7aa60"]
 
-[ext_resource type="Texture2D" uid="uid://caqlv1s3quox3" path="res://Assets/Background/Blue.png" id="1_8gbba"]
+[ext_resource type="Texture2D" uid="uid://dijbg1fc6sehs" path="res://Assets/Background/Purple.png" id="1_8gbba"]
 [ext_resource type="Texture2D" uid="uid://ckuq3l6rheesg" path="res://Assets/Background/Terrain (16x16).png" id="2_jjvhh"]
 [ext_resource type="PackedScene" uid="uid://dbntljck1rxxi" path="res://Scenes/personagem.tscn" id="3_kry3j"]
 
